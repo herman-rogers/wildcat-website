@@ -1,0 +1,29 @@
+{
+  "name": "wildcat-stable-coin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Wildcat Stable Coin",
+  "author": "Herman Rogers",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "antd": "^4.16.3",
+    "babel-plugin-import": "^1.13.3",
+    "babel-plugin-styled-components": "^1.12.0",
+    "gatsby": "^3.6.2",
+    "gatsby-plugin-antd": "^2.2.0",
+    "gatsby-plugin-less": "^5.7.1",
+    "gatsby-plugin-styled-components": "^4.7.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.3.0"
+  }
+}
